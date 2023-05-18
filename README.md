@@ -1,6 +1,5 @@
 ## Olá! Sou Arthur Ciliberti
 - 🌱 Eu atualmente estou cursando ADS na SP Tech School
-- 📫 Moro em SP-São Paulo, Rua Isabel de Gois n.:8 Apto:64 Bl:6
 - 😄 Pronouns: Ele/Dele
 
 ##
