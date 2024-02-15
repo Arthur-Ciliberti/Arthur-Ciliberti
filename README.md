@@ -1,7 +1,8 @@
 # Olá rede! Eu sou Arthur Ciliberti 👋
 
 - Atualmente cursando Análise e Desenvolvimento de Sistemas na SP Tech School
-- Tenho afinidade com design, front-end, e também aprecio trabalhar com Java, Node.js, Banco de Dados, Diagramas: BPMN, Solução, Classes, Sequência.
+- Hoje em dia eu trabalho como FullStack na Simpress
+- Tenho afinidade com  front-end e Back-end, aprecio trabalhar com documentações de projetos.
 
 ---
 
@@ -23,6 +24,11 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width:100%; color: #E34F26;">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width:100%; color: #F7DF1E;">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="max-width:100%; color: #007396;">
+  <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width:100%; color: #239120;">
+  <img align="center" alt=".NET" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" style="max-width:100%; color: #512BD4;">
+  <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" style="max-width:100%; color: #4479A1;">
+  <img align="center" alt="ASP.NET" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" style="max-width:100%; color: #512BD4;">
+  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="max-width:100%; color: #339933;">
 </div>
 
 
@@ -31,7 +37,6 @@
 ## Tecnologias que já Trabalhei
 
 <div style="display: inline-block;"><br>
-  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="max-width:100%; color: #339933;">
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" style="max-width:100%; color: #336791;">
 </div>
 
