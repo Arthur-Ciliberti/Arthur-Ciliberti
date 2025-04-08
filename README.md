@@ -1,7 +1,6 @@
 # Olá rede! Eu sou Arthur Ciliberti 👋
 
 - Atualmente cursando Análise e Desenvolvimento de Sistemas na SP Tech School
-- Hoje em dia eu trabalho como FullStack na Simpress
 - Tenho afinidade com  front-end e Back-end, aprecio trabalhar com documentações de projetos.
 
 ---
