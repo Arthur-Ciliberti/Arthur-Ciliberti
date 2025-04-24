@@ -1,6 +1,6 @@
 # Olá rede! Eu sou Arthur Ciliberti 👋
 
-- Atualmente cursando Análise e Desenvolvimento de Sistemas na SP Tech School
+- Sou formado em Análise e Desenvolvimento de Sistemas na SP Tech School
 - Tenho afinidade com  front-end e Back-end, aprecio trabalhar com documentações de projetos.
 
 ---
