@@ -45,9 +45,6 @@
 ## Conecte-se Comigo
 
 <div> 
-  <a href="https://www.instagram.com/ciliberti.arthurs/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram">
-  </a>
   <a href="https://www.linkedin.com/in/arthur-ciliberti-098893257/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn">
   </a> 
